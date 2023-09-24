@@ -10,3 +10,17 @@ revision=2.0.20190313
 format=qcow2
 size=1570504704
 checksum=eca3eac10dcecc09d218ce06c521aa7f6ec7de5476b423039528fc6dee4dff34a9c5295d4815ec27e8c20362b0929670196c7199c8cd2cb05ebe359600c04e19
+login_user=ec2-user
+
+[ubuntu2204]
+name=Ubuntu-22.04
+file=ubuntu-22.04-server-cloudimg-amd64.img
+url=https://dl.platform-os.org/images/ubuntu/x86_64/ubuntu-22.04-server-cloudimg-amd64.img
+origin_url=https://cloud-images.ubuntu.com/releases/22.04/release/ubuntu-22.04-server-cloudimg-amd64.img
+os_type=linux
+os_variant=ubuntu22.04
+arch=x86_64
+format=qcow2
+size=670957568
+checksum=e6babe6d5608cb9bfc9132708c2f13c11f467a3b0460373d0ab278aac8797b2c0eef73ccc1a8546679fe6ba7091478ad57d87150ddd94d1df7a987d8e7d34bc9
+login_user=ubuntu
