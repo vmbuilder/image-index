@@ -2,6 +2,7 @@
 name=CentOS-6-GenericCloud
 file=amzn2-kvm-2.0.20190313-x86_64.xfs.gpt.qcow2
 url=https://dl.platform-os.org/images/amazonlinux/x86_64/amzn2-kvm-2.0.20190313-x86_64.xfs.gpt.qcow2
+origin_url=https://cdn.amazonlinux.com/os-images/2.0.20190313/kvm/amzn2-kvm-2.0.20190313-x86_64.xfs.gpt.qcow2
 os_type=linux
 os_variant=auto
 arch=x86_64
